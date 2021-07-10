@@ -2,7 +2,7 @@
 Calculation of the Ising Model lattice using CUDA
 
 
----
+----
 # V0
 Sequential calculation using the CPU.
 
