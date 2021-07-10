@@ -10,7 +10,7 @@ Sequential calculation using the CPU.
 Parallel calculation with one one thread per magnetic moment using CUDA.
 
 # V2
-Parallel calculation with one one thread block of magnetic moments using CUDA.
+Parallel calculation with one thread calculating a block of magnetic moments using CUDA.
 
 # V3
 Parallel calculation with multiple threads reading from the shared memory using CUDA.
