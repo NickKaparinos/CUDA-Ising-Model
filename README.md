@@ -2,7 +2,7 @@
 Calculation of the Ising Model lattice using CUDA
 
 
-
+---
 # V0
 Sequential calculation using the CPU.
 
@@ -14,3 +14,7 @@ Parallel calculation with one one thread block of magnetic moments using CUDA.
 
 # V3
 Parallel calculation with multiple threads reading from the shared memory using CUDA.
+
+
+----
+Each version provides a speedup in execution time compared to the previous version.
